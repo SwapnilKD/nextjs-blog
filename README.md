@@ -1,4 +1,4 @@
-This is a Next Js repository.
+This is a Next Js repository. It shows how to use SSR, ISR, Static props functions with cookies to send in server side functions.
 
 First before start use at root repo 'yarn' .
 Set Required params in .env file as per usecases.
