@@ -63,14 +63,8 @@ export default function Deatils({ latestNFTData }) {
           console.log('back btn clicked');
           temp();
         //   router.back();
-        }}>Go to Details Page</button>
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-
-        <div>
-
-        </div>
+        }}>Call Middleware Login</button>
+       
       </main>
 
       <footer>
